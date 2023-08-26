@@ -1,6 +1,7 @@
 # Calculadora de IMC (Índice de Massa Corporal)
 
-Bem-vindo ao projeto da Calculadora de IMC! Esta é uma aplicação simples que permite calcular o Índice de Massa Corporal (IMC) de uma pessoa e fornecer uma classificação de acordo com o peso. O IMC é uma medida que relaciona o peso e a altura de uma pessoa, fornecendo uma indicação geral da composição corporal e ajudando a avaliar se o peso está dentro de faixas saudáveis.
+![preview](./.github/preview.png)
+Esta é uma aplicação simples que permite calcular o Índice de Massa Corporal (IMC) de uma pessoa e fornecer uma classificação de acordo com o peso. O IMC é uma medida que relaciona o peso e a altura de uma pessoa, fornecendo uma indicação geral da composição corporal e ajudando a avaliar se o peso está dentro de faixas saudáveis.
 
 ## Funcionalidades
 
