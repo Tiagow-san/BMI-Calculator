@@ -22,7 +22,7 @@ A classificação de peso é feita de acordo com as diretrizes da Organização 
 - **Obesidade Grau 2:** IMC entre 35.0 e 39.9
 - **Obesidade Grau 3:** IMC maior que 40.0
 
-[🔗 Clique aqui para acessar](https://tiagow-san.github.io/Calculadora-de-IMC)
+[🔗 Clique aqui para acessar](https://tiagow-san.github.io/BMI-Calculator)
 ## 🛠 Tecnologias
 
 - JavaScript
